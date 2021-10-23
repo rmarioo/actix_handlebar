@@ -1,0 +1,30 @@
+[
+  {
+    "first_name": "Mario",
+    "last_name": "Russo",
+    "age": 43,
+    "address": {
+      "street": "Downing Street 10",
+      "city": "London",
+      "country": "Great Britain"
+    },
+    "phoneNumbers": [
+      "+44 1234567",
+      "+44 2345678"
+    ]
+  },
+  {
+    "first_name": "Luigi",
+    "last_name": "Verdi",
+    "age": 43,
+    "address": {
+      "street": "Downing Street 10",
+      "city": "London",
+      "country": "Great Britain"
+    },
+    "phoneNumbers": [
+      "+44 1234567",
+      "+44 2345678"
+    ]
+  }
+]

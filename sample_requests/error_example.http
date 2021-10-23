@@ -1,0 +1,4 @@
+GET http://localhost:8080/some-non-existing-page
+Accept: application/json
+
+###
