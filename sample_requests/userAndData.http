@@ -1,4 +1,4 @@
-GET http://localhost:8080/Mario/passwords
+GET http://localhost:8080
 Accept: application/json
 
 ###
